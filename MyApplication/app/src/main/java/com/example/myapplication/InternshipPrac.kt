@@ -6,11 +6,10 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
 
-class internshipTemp : AppCompatActivity() {
+class InternshipPrac : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_internship_temp)
-
+        setContentView(R.layout.activity_internship_prac)
         var btn=findViewById<Button>(R.id.btn_btn)
         var editText=findViewById<EditText>(R.id.ed_text)
 

@@ -3,17 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.164" />
         <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/drawable/bg.xml" value="0.1415" />
         <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/drawable/btn.xml" value="0.2275" />
         <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/drawable/call.xml" value="0.2275" />
         <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/drawable/email.xml" value="0.1" />
+        <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/drawable/ic_launcher_background.xml" value="0.227" />
         <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/drawable/inputfield.xml" value="0.2275" />
         <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/drawable/lock.xml" value="0.2275" />
         <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/drawable/profile.xml" value="0.2275" />
         <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/drawable/wave.xml" value="0.1415" />
         <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/layout/activity_home_page.xml" value="0.11574074074074074" />
-        <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/layout/activity_login.xml" value="0.4" />
-        <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/layout/activity_view_user.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/layout/mydialog.xml" value="0.2" />
         <entry key="..\:/Users/Deep Patel/AndroidStudioProjects/mydb_Example/app/src/main/res/layout/row_data.xml" value="0.264" />
